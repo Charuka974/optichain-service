@@ -1,6 +1,6 @@
-fastapi==0.115.0
+fastapi==0.141.1
 uvicorn==0.34.0
-pydantic==2.10.0
+pydantic==2.13.5
 email-validator==2.1.1
 pymongo[srv]==4.6.2
 python-dotenv==1.0.1
@@ -8,7 +8,7 @@ passlib[bcrypt]==1.7.4
 bcrypt==3.2.2
 python-jose[cryptography]==3.3.0
 pandas==3.0.5
-numpy==2.2.0
-scikit-learn==1.6.1
-joblib==1.4.2
+numpy==2.5.3
+scikit-learn==1.9.1
+joblib==1.6.0
 xgboost==2.1.0
